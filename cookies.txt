@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sbustos.rtacchi.com	TRUE	/	FALSE	1999999999	0614a109a227f74b65927a43d6691dca	phel831olrllm2ffmkjq6m65e7
+
