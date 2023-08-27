@@ -20,7 +20,7 @@
 		<id>https://sbustos.rtacchi.com/index.php?option=com_content&amp;view=article&amp;id=27&amp;catid=2&amp;Itemid=232</id>
 		<author>
 			<name>Super Usuario</name>
-			<email>rodrigo.tacchi@cmdsnunoa.cl</email>
+			<email>tic.salud@cmdsnunoa.cl</email>
 		</author>
 		<summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1avAXjkGg_Gf3KLyJXMWcjPSpwr0aLq5w/view?usp=sharing&quot;&gt;MAPA DE DERIVACIÓN FEBRERO 2020&lt;/a&gt;&lt;/li&gt;
@@ -40,7 +40,7 @@
 		<id>https://sbustos.rtacchi.com/index.php?option=com_content&amp;view=article&amp;id=26&amp;catid=2&amp;Itemid=231</id>
 		<author>
 			<name>Super Usuario</name>
-			<email>rodrigo.tacchi@cmdsnunoa.cl</email>
+			<email>tic.salud@cmdsnunoa.cl</email>
 		</author>
 		<summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://drive.google.com/open?id=1lgRYzKL33O7Hzq8HE3zcHPmanmkEsjqg&quot; target=&quot;_blank&quot;&gt;CORONAVIRUS 17-02-20&lt;/a&gt;&lt;/li&gt;
@@ -58,7 +58,7 @@
 		<id>https://sbustos.rtacchi.com/index.php?option=com_content&amp;view=article&amp;id=25&amp;catid=2&amp;Itemid=101</id>
 		<author>
 			<name>Super Usuario</name>
-			<email>rodrigo.tacchi@cmdsnunoa.cl</email>
+			<email>tic.salud@cmdsnunoa.cl</email>
 		</author>
 		<summary type="html">&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0px 0cm; color: #222222; font-size: 12pt; font-family: 'Times New Roman', serif;&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
 &lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0px 0cm; color: #222222; font-size: 12pt; font-family: 'Times New Roman', serif;&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
@@ -100,7 +100,7 @@
 		<id>https://sbustos.rtacchi.com/index.php?option=com_content&amp;view=article&amp;id=24&amp;catid=2&amp;Itemid=117</id>
 		<author>
 			<name>Super Usuario</name>
-			<email>rodrigo.tacchi@cmdsnunoa.cl</email>
+			<email>tic.salud@cmdsnunoa.cl</email>
 		</author>
 		<summary type="html">&lt;h3&gt; &lt;/h3&gt;
 &lt;hr /&gt;
@@ -182,7 +182,7 @@
 		<id>https://sbustos.rtacchi.com/index.php?option=com_content&amp;view=article&amp;id=21&amp;catid=2&amp;Itemid=187</id>
 		<author>
 			<name>Super Usuario</name>
-			<email>rodrigo.tacchi@cmdsnunoa.cl</email>
+			<email>tic.salud@cmdsnunoa.cl</email>
 		</author>
 		<summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/d/u/0/edit?mid=1b35Z0XxgtDOn2InkGU83wfVsKIYejG7t&amp;amp;ll=-33.45396310469751%2C-70.5848269&amp;amp;z=13&quot;&gt;Mapa de Sectores CESFAM Salvador Bustos&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/d/u/0/edit?mid=1bjHPhFgU6XAKw5ttqQw2FsyapgzLYNjE&amp;amp;ll=-33.45396310469751%2C-70.5848269&amp;amp;z=13&quot; target=&quot;_blank&quot;&gt;Mapa Comunal de Ñuñoa&lt;/a&gt;&lt;/p&gt;</summary>
@@ -198,7 +198,7 @@
 		<id>https://sbustos.rtacchi.com/index.php?option=com_content&amp;view=article&amp;id=20&amp;catid=2&amp;Itemid=183</id>
 		<author>
 			<name>Super Usuario</name>
-			<email>rodrigo.tacchi@cmdsnunoa.cl</email>
+			<email>tic.salud@cmdsnunoa.cl</email>
 		</author>
 		<summary type="html">&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Para usar sistema de LME, deberá contar con el Huellero conectado a su PC. El navegador a usar es Internet Explorer, no funciona con otro navegador.&lt;/strong&gt;&lt;/h3&gt;
 &lt;hr /&gt;
@@ -285,11 +285,11 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Director&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Cristián Carvacho Abadie&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Verónica Retamal Fernández&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Sub Director&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Beatriz Canovas Hernández sub directora administrativa; Patricia Urrutia Ibarra sub directora técnica; Ángela Rodríguez Martínez, encargada de satisfacción usuaria.&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Beatriz Canovas Hernández&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Horario de atención&lt;/p&gt;
@@ -305,15 +305,15 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Direccción&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Avenida Grecia 4369&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Avenida Grecia 3980,ñuñoa&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Teléfonos&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;22379 30 36 - 22379 30 38&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;+56 232516500 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;E-mail&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;cristian.carvacho@cmdsnunoa.cl&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;veronica.retamal@cmdsnunoa.cl&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content>
 		<category term="Principal" />
@@ -340,11 +340,11 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Director&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Cristián Carvacho Abadie&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Veronica Retamal Fernández&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Sub Director&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Beatriz Canovas Hernández sub directora administrativa; Patricia Urrutia Ibarra sub directora técnica; Ángela Rodríguez Martínez sub directora de satisfacción usuaria.&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Beatriz Canovas Hernández &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Horario de atención&lt;/p&gt;
@@ -361,11 +361,11 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Direccción&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Avenida Grecia 4369&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Avenida Grecia 3980, ñuñoa&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Teléfonos&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;22379 30 36 - 22379 30 38&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;+56 232516500&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -382,11 +382,11 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Director&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Cristián Carvacho Abadie&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Veronica Retamal Fernández&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Sub Director&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Beatriz Canovas Hernández sub directora administrativa; Patricia Urrutia Ibarra sub directora técnica; Ángela Rodríguez Martínez sub directora de satisfacción usuaria.&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Beatriz Canovas Hernández &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Horario de atención&lt;/p&gt;
@@ -403,11 +403,11 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Direccción&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;Avenida Grecia 4369&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;Avenida Grecia 3980, ñuñoa&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p class=&quot;left&quot;&gt;Teléfonos&lt;/p&gt;
-&lt;p class=&quot;right&quot;&gt;22379 30 36 - 22379 30 38&lt;/p&gt;
+&lt;p class=&quot;right&quot;&gt;+56 232516500&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
